@@ -1,13 +1,13 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../../Downloads/se_project_library"
-		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "se_project_library"
-	}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../Downloads/se_project_library"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HTML"
+  }
 }
