@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "parcel": "^2.13.3"
+  },
+  "htmlnano": {
+    "minifySvg": false
   }
 }
